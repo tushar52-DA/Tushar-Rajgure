@@ -23,5 +23,12 @@
   <li>Python</li>
 </p>
 <h3 align="left">Skills:</h3>
+<p>
+  <li>Data Visualization</li>
+  <li>Data cleaning</li>
+  <li>EDA</li>
+  <li>Daashboarding</li>
+  <li>Statistical Analysis</li>
+</p>
 
 

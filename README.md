@@ -14,7 +14,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<li>Power bi <a href="[https://locusit.se/wp-content/uploads/2020/05/Microsoft-Power-BI-Symbol.png](https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210)"></a></li></li></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar52-da&show_icons=true&locale=en&layout=compact" alt="tushar52-da" /></p>
+<p>
+  <li>Microsoft Excel</li>
+  <li>Power Bi</li>
+  <li>Tableu</li>
+  <li>R Programing</li>
+  <li>Python</li>
+  
+</p>

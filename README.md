@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <li>Microsoft Excel</li>
-  <li>Power Bi</li>
+  <li>Power Bi <a href="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210"></a></li>
   <li>Tableu</li>
   <li>R Programing</li>
   <li>Python</li>

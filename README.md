@@ -13,15 +13,7 @@
 <a href="https://instagram.com/tushar_rajgure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_rajgure" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools: <h3 align="right">Skills:</h3>
-<p>
-  <li>Data Visualization</li>
-  <li>Data cleaning</li>
-  <li>EDA</li>
-  <li>Daashboarding</li>
-  <li>Statistical Analysis</li>
-</p>
-</h3>
+<h3 align="left">Languages and Tools: </h3>
 <p>
   <li>Microsoft Excel</li>
   <li>Power Bi </li>

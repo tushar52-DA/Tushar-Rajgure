@@ -21,5 +21,7 @@
   <li>SQL</li>
   <li>R Programing</li>
   <li>Python</li>
-  
 </p>
+<h3 align="left">Skills:</h3>
+
+

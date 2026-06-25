@@ -14,6 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<li>Power Bi</li></li></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar52-da&show_icons=true&locale=en&layout=compact" alt="tushar52-da" /></p>
